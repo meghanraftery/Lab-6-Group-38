@@ -6,4 +6,5 @@ With our program we hope to make adding numbers simpler using Python. We are com
 - Solving equations using the user's input
 - Asking for the users name
 
+
 Our program is open to all, regardless of the user's identity
